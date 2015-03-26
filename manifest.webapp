@@ -1,0 +1,13 @@
+{
+  "name": "GP Internet Packages",
+  "description": "Grameenphone 3G is an all-new way to experience the fast paced, truly mobile lifestyle. Enjoy seamless upgrade to 3G on your existing GP SIM (Pre-paid or Post-paid) and explore the world class Grameenphone 3G network for optimum speed experience & full mobility. We are committed to ensure uninterrupted, high speed internet experience even on the move. Even as you go beyond our 3G footprint, we will still have you seamlessly connected over our nationwide 2G network.",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/icon.png"
+  },
+  "developer": {
+    "name": "Talha",
+    "url": "http://talha.cf"
+  },
+  "default_locale": "en"
+}
